@@ -1,0 +1,63 @@
+/* Syntax Example */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Selectors */
+.red {
+    color: red;
+}
+#unique {
+    color: blue;
+}
+
+/* Flexbox */
+.flex-item {
+    display: inline-block;
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Colors */
+.blue-bg {
+    background-color: blue;
+    color: white;
+}
+.white-text {
+    color: white;
+}
+
+/* Borders, Padding, Margin */
+.box {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Height and Width */
+.small-box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+}
+.large-box {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+}
+
+/* Text Styling */
+.styled-text {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Links */
+a {
+    color: blue;
+}
+a:hover {
+    color: red;
+}
