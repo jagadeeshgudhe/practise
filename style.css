@@ -1,4 +1,4 @@
-/* Syntax Example */
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -57,7 +57,11 @@ body {
 /* Links */
 a {
     color: blue;
-}
+
+
+
+ /*flexbox*/   
+/* for flexbox there is a website called flex box froggy -https://flexboxfroggy.com/ */
 a:hover {
     color: red;
 }
